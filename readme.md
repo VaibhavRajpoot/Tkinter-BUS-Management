@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/file/d/1AQRjLYyFKr2zPhkLvmKvn4FLsC7MAD2E/view?usp=drive_link" alt="project-screenshot" width="400" height="400/">
+![My Image](Tkinter-Bus-Management/ss1.png)
 
 <img src="https://drive.google.com/file/d/1AQRjLYyFKr2zPhkLvmKvn4FLsC7MAD2E/view?usp=drive_link" alt="project-screenshot" width="400" height="400/">
 
